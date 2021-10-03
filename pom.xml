@@ -6,7 +6,8 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <build>
-        <!-- comentario para github -->
+        <!-- comentario para github --> 
+        
         <resources>
             <resource>
                 <targetPath>META-INF</targetPath>
