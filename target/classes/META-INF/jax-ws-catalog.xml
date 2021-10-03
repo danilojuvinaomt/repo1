@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://demoemision21.thefactoryhka.com.co/ws/v1.0/Service.svc?singleWsdl" uri="wsdl/demoemision21.thefactoryhka.com.co/ws/v1.0/Service.svc.singlewsdl.wsdl"/>
+    <system systemId="https://emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc?wsdl" uri="wsdl/emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc.wsdl"/>
+    <system systemId="http://emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc?xsd=xsd0" uri="wsdl/emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc.xsd_xsd0.xsd"/>
+    <system systemId="http://emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc?xsd=xsd1" uri="wsdl/emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc.xsd_xsd1.xsd"/>
+    <system systemId="http://emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc?xsd=xsd2" uri="wsdl/emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc.xsd_xsd2.xsd"/>
+    <system systemId="http://emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc?xsd=xsd3" uri="wsdl/emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc.xsd_xsd3.xsd"/>
+    <system systemId="http://emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc?xsd=xsd4" uri="wsdl/emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc.xsd_xsd4.xsd"/>
+    <system systemId="http://emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc?xsd=xsd5" uri="wsdl/emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc.xsd_xsd5.xsd"/>
+</catalog>
