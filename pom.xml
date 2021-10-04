@@ -8,6 +8,7 @@
     <build>
         <!-- comentario para github --> 
         
+                <!-- otro comentario desde github.com --> 
         <resources>
             <resource>
                 <targetPath>META-INF</targetPath>
